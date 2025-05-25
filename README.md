@@ -29,6 +29,7 @@
 ```bash
 npm install
 npm run serve
+```
 
 ## ✅ Geliştirilebilecek Özellikler
 - Yarış geçmişi istatistikleri
