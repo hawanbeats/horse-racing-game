@@ -1,8 +1,8 @@
 # Horse Racing Game 🐎
 
 ## 🔧 Kullanılan Teknolojiler
-- Vue.js (3.x)
-- JavaScript (ES6+)
+- Vue.js
+- JavaScript
 - CSS3
 - Pinia (State Management)
 - Component Tabanlı Mimari
