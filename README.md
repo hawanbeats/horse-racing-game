@@ -29,3 +29,8 @@
 ```bash
 npm install
 npm run serve
+
+## ✅ Geliştirilebilecek Özellikler
+- Yarış geçmişi istatistikleri
+- Kullanıcı at seçimi ve skor takibi
+- Mobil uyumluluk ve responsivity iyileştirmeleri
