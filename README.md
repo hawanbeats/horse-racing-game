@@ -1,7 +1,5 @@
 # Horse Racing Game 🐎
 
-Bu proje, Vue.js ile geliştirilen bir **At Yarışı Simülasyonu** oyunudur. Kullanıcılar rastgele oluşturulan at listeleri ve yarış programı üzerinden görsel bir simülasyon deneyimleyebilir.
-
 ## 🔧 Kullanılan Teknolojiler
 - Vue.js (3.x)
 - JavaScript (ES6+)
