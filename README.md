@@ -1,5 +1,8 @@
 # Horse Racing Game 🐎
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=hawanbeats.horse-racing-game)
+![GitHub top language](https://img.shields.io/github/languages/top/hawanbeats/horse-racing-game)
+![GitHub last commit](https://img.shields.io/github/last-commit/hawanbeats/horse-racing-game)
+![GitHub Repo stars](https://img.shields.io/github/stars/hawanbeats/horse-racing-game?style=social)
 
 ## 🔧 Kullanılan Teknolojiler
 - Vue.js
