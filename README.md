@@ -1,4 +1,5 @@
 # Horse Racing Game 🐎
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=hawanbeats.horse-racing-game)
 
 ## 🔧 Kullanılan Teknolojiler
 - Vue.js
