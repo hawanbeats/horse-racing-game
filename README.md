@@ -25,7 +25,7 @@
 
 ## 📁 Klasör Yapısı
 - `src/components` → Arayüz bileşenleri
-- `src/store` → Pinia store tanımı
+- `src/stores` → Pinia store tanımı
 - `App.vue` → Ana uygulama bileşeni
 - `main.js` → Vue app giriş noktası
 
